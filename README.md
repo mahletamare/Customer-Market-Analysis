@@ -3,13 +3,13 @@ Business Request:
 
       Understanding our consumer categories based on their demographics, purchasing patterns, and preferences is essential for us as a retail company trying to maximize marketing and sales efforts. We will be able to better engage customers and boost revenue by customizing marketing campaigns and product offers to particular consumer segments.
 
-User Stories:
+## User Stories:
 
     As a data analyst, I want to identify distinct customer segments based on age, purchase amount, and review ratings to better understand customer behavior.
     As a marketing manager, I want insights into popular products, preferred payment methods, and subscription status within each customer segment to design targeted marketing campaigns.
     As a business strategist, I want to explore the relationship between customer clusters and previous purchase history to optimize customer retention and loyalty programs.
 
-Result Description and Recommendations
+## Result Description and Recommendations
 
 Result Description:
     The analysis identified three distinct customer clusters based on age, purchase amount, and review ratings:
@@ -24,7 +24,7 @@ Result Description:
 
 
 
-Recommendations
+## Recommendations
 
 Product Offerings:
         Customize product recommendations based on each cluster's preferences to enhance customer satisfaction and increase sales.
@@ -33,7 +33,7 @@ Customer Engagement:
         Implement loyalty programs that reward frequent purchasers within each cluster to foster customer retention.
         Leverage customer reviews and ratings to enhance product development and customer service strategies.
 
-Market Strategies 
+## Market Strategies 
 
 Group 0:
       Top Products: Shorts, Handbags, Sweaters
